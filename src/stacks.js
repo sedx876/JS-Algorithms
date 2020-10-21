@@ -1,5 +1,8 @@
 // //Stacks
 // //functions: push, pop, peek, length
+//LIFO(Last in First Out) AND FILO(First in Last Out).
+//A stack is also used by compilers in programming languages 
+//and by computer memory to store variables and method calls.
 
 // let letters = []
 // let word = 'racecar'
